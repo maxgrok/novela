@@ -21,9 +21,9 @@ In this post, I'm going to introduce the basics of gamification as discussed in 
 
 ## Diablo III & Me: Games
 
-I love games. I waited 10+ years for Diablo III to come out and played it on Switch, after a long haitus of gaming. It was fantastic. I operate as a warrior/paladin and get to slay zombies and other monsters on an epic quest. Whenver I'm gaming, I feel a sense of challenge and accomplishment. I get into flow. I love the time I spend gaming and gain more self-efficacy by doing it. T
+I love games. I waited 10+ years for Diablo III to come out and played it on Switch, after a long haitus of gaming. It was fantastic. I operate as a warrior/paladin and get to slay zombies and other monsters on an epic quest. Whenver I'm gaming, I feel a sense of challenge and accomplishment. I get into flow. I love the time I spend gaming and gain more self-efficacy by doing it. 
 
-hrough gaming, I learned resilience, but that's another story. Bottom line, as Gabe Zichermann points out, games benefit their creators, i.e. the house. The fact is that Diablo III has eaten hours of my life, but I feel grateful for the journey spent gaming. 
+Through gaming, I learned resilience, but that's another story. Bottom line, as Gabe Zichermann points out, games benefit their creators, i.e. the house. The fact is that Diablo III has eaten hours of my life, but I feel grateful for the journey spent gaming. 
 
 On the opposite side of the spectrum, gamification gave birth to the corporate loyalty programs of the 1980s that show the more dishonest side of gaming really directly. For example, the redemption of airline points is not easy or desirable for the airline, yet they give out loyalty points. This loyalty program is not built to deliver the rewards, rather to calculate very specific data about its customers. As a result, this game benefits the creator of the game, namely - in this case - the airline. Ultimately, the creators of Diablo III benefited because I bought their game and played it for hours on end with a satisfying experience. However, I became a more optimistic, joyful person for having played in the first place. 
 

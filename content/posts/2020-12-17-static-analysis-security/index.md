@@ -26,7 +26,6 @@ Open your shell and run the following:
 This will install the Mythx CLI. After this, you will be able to run ```mythx``` and see a bunch of helpful commands. 
 
 ![mythx-help-commands](https://imgur.com/859ovlt.png)
-
 Please follow the Mythx.org instructions on setting up an trial account, then grab your API key in your MythX Dashboard. 
 
 ## Running MythX
@@ -43,7 +42,6 @@ The results should look like this:
 ![MythX Simple Coin Scan](https://imgur.com/3JbWuIu.png)
 
 ## Congratulations! You've run your first static analysis tool on a smart contract! 
-
 Let's run another one! 
 
 ## <a href="https://github.com/crytic/slither">Slither</a>

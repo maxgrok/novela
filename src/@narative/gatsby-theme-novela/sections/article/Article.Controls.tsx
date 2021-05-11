@@ -84,9 +84,6 @@ const SharePageButton: React.FC<{}> = () => {
       aria-label="Copy URL to clipboard"
     >
       <Icon />
-      <ToolTip isDark={isDark} hasCopied={hasCopied}>
-        Copied
-      </ToolTip>
     </IconWrapper>
   );
 };
