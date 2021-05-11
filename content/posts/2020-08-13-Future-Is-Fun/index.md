@@ -29,18 +29,20 @@ On the opposite side of the spectrum, gamification gave birth to the corporate l
 
 ## Gamification: What's that?
 
->Gamification is the use of game mechanics, loyalty, and behavioral economics to engage users.
-- Gabe Zichermann. We can spot gamification with points, badges, and other tools used for gamification, but ultimately it's use is to leverage the feel of games to produce a desirable outcome.
+>"Gamification is the use of game mechanics, loyalty, and behavioral economics to engage users."
++ from Gabe Zichermann
+
+We can spot gamification with points, badges, and other tools used for gamification, but ultimately it's use is to leverage the feel of games to produce a desirable outcome.
 
 ## Basic Gamification Tools
 
 There are hundreds of tools available for gamiifcation; points, badges, leaderboards, etc. However, some are better at long-term cooperation than others. Initially, it's best to have quick feedback via points and a solo level of play to reinforce the game and structure. Depending on how long you want the game to last, this could be enough to gamify a process. If you want a long term game, however, then you'll need to build a ladder where each rung on that ladder is a little bit more difficult than the one before, enhancing the skill level of the player, as well as providing more challenges to keep flow. In the long term, it is best to have players rated on their responses to other players and team reputations on the line. This creates a long-term coop that cares about each other collectively and incentivizes -- through socialization -- the continued play of the game. So, if you want to gamify a conference (2-3 days), use points. To gamify loyalty, it's a longer game. It may take years and therefore, you should use longer term gaming strategies such as the multiplayer co-op model. Here is what Michael Wu suggests: 
 
-<img src="https://imgur.com/KTgwSEc.png" />
+![article-image-1](./images/article-image-1.png)
 
 The above graphic serves as a basic guide as to when to implement different strategies and how they may be employed and how difficult they are to game. Here is how one may construct a ladder, regarding different circumstances:
 
-<img src="https://imgur.com/VbDcDFy.png" />
+![article-image-2](./images/article-image-2.png)
 
 As you can see, the longer the game, the more rungs needed on the ladder in order to accomplish the goal.
 
@@ -62,7 +64,7 @@ So, it is important that web application developers are aware of game mechanics 
 
 Technically, this may not be difficult to add a badge by itself to a web app, however, if the client/company wants to achieve the potential >30% increase in key engagement metrics, then they will need to be aware that there is more to it than just having a badge on a site. They will need to know the overall cycle of how to create challenge-achievement-reward cycles that are easily completed to rope in users on on-boarding.
 
-## How It All Ties Together: 'Fun is the Future', so is Crypto
+## Synthesis: 'Fun is the Future', so is Crypto
 
 I'm a big believer in crypto's, specifically Ethereum's, ability to convert our usual zero-sum game into prosocial, net-positive collaborations. We, as a community, need to be extra careful about the games we are building with tokens embedded in commmunities to ensure the healthy mutual gain of both user and creator. Flipping 'the house always wins' on it's head to the house perhaps always overlaps with user wins, creating win-win games.
 

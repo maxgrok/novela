@@ -14,12 +14,13 @@ tags:
   - mapz.guide
 ---
 
-<strong>Requirements</strong>: Metamask Account with a small amount of ETH and DAI in it.
+Requirements: Metamask Account with a small amount of ETH and DAI in it.
 
 In this post, I'll breakdown how to convert DAI to xDAI, convert xDAI to wxDAI, then how to summon your very own xDAI DAO with DAOHaus in 4 easy steps.
 
 If you're totally new to xDAI, here is the [What is xDAI?](https://www.xdaichain.com/) link.
-<br/>Now, let's get started! 
+
+Now, let's get started! 
 
 ## 1. Convert DAI to xDAI.
 
