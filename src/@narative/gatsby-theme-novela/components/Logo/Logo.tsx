@@ -9,7 +9,7 @@ const Logo: Icon = ({ fill = "white" }) => {
   return (
     <LogoContainer>
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="598.000000pt" height="221.000000pt" viewBox="0 0 598.000000 221.000000"
+ width="300.000000pt" height="121.000000pt" viewBox="0 0 598.000000 221.000000"
  preserveAspectRatio="xMidYMid meet">
 <g transform="translate(0.000000,221.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
