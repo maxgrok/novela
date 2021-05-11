@@ -1,0 +1,32 @@
+---
+author: Max Goodman
+title: The Future of Corporations is Cooperative
+slug: future-is-cooperative
+draft: false
+hero: ./images/hero.png
+date: 2020-10-15
+excerpt: The future of corporations democratic and decentralized in nature. Community-owned and governed.
+category: Future
+tags:
+  - ETH
+  - Future
+  - Cooperatives
+---
+
+When many people think of corporations, they think of slime-y biz people who are greedy and hoard resources for their own gains/profitabiliy, but the future of corporations is it's opposite. The future of corporations is actually democratic and decentralized in nature: community-owned and governed. Rather than a few people owning and governing them, there will be a community owning and governing them in a democratic fashion. Rather than being owned and operated by a few elites, they will be producing value distributed across many, many different stakeholders in a variety of communities.
+
+The ability of us to contribute to the governance, strategy, and vision of our favorite missions/interests in the form of corporations will change the way we take responsibility over our world, our community, and the way we participate in it. We will be able to see ourselves as participants and stakeholders in their bright futures, rather than clients, consumers, and end users. We can have a more equitable <em>relationship</em> with these entities, rather than be solely recipients of their products. We can - through these corporation communities - trace how we influence our world, our community, and our impact. We will be able to be included in an equitable, just manner in the value that gets created, especially if we played a part in it's creation.
+
+Several crypto NFT-oriented startups like Ujo sought to do this for artists and innovate their intellectual property to have artists claim a larger share of the profits they make from their art than is traditionally accepted in the US industry. However, some of these crypto companies are normal C-Corps, out for and only accountable to their own interests, just like more traditional web 2.0 startups. We need full-stack distribution and decentralization (not just technological decentralization). This includes legal vehicles for implementation.
+
+With the evolution of different legal vehicles in the past 10 years such as B corps and L3Cs, it is possible to envision a world where corporations act as ethical, conscientious persons. However, these vehicles only go so far. The ownership is still congealed at the top of a hierarchy in most cases, rather than distributed among the community of users (in tech startups atleast). Also, there is a price to pay to engage in the B certification standard process: B Corporation certification has a set of exclusively licensed standards that must be audited every 2 years in order to maintain compliance, which is not open-sourced. It costs a hefty enough amount of money to dissuade any bootstrapped startup from considering it (or atleast it did last I checked).
+
+The newer vehicle of decentralized autonomous organizations (otherwise known as DAOs) breed the kind of flat hierarchy of do-cracy that I personally crave, but they struggle with the same consensus issues that cooperatives normally do: coordination costs, engagement in voting, and dispute resolution, etc. In particular, the nature of working remotely and asyncronously can breed consensus issues. To provide a solution to the dispute resolution, lexDAO is currently working on a dispute resolution guide for DAOs. However, with all the tech involved in DAOs, it is easy to forget the human element must change and adapt as well. This takes longer than deploying an app to Heroku or AWS. It takes heart.
+
+In real life, in 2010, Occupy Wall Street had a series of hand symbols to convey consensus on issues. They used these to check temperature in the room to see who agreed and who didn't. This required time. Many brick and mortar cooperatives such as Red Emma's use a variety of digital tools for communications in order to reach agreements across their team. In crypto, Consensys itself used to operate in spokes, rather than hierarchies. The spokes would be fluid teams of people who are able to govern and vote on different policies and processes for the betterment of that particular project. Though it has since changed it's structure, it was very well one of the early experiments of flat organizations at scale. I remain excited about these types of experiments. One will strike gold.
+
+Overall, investing in the community of people who have a valid stake in your success is crucial. Doing this through decentralizing your governance and ownership is something that crypto provides means to accomplish this with unique vehicles. With the advent of a vehicle known as 'reverse IPO's', companies, such as Uniswap's $UNI airdrop, can now reward early users on their platform with a native token and invite them to participate in governance. I believe these are the first steps in distributing accessible means to own a wide variety of productions of value in society.
+
+There is a further step required, which includes accessibility and usability of these infrastructures for the average user. In crypto, this is a widespread problem that many are tackling. It is worth it just to notice that there is currently a gap between what is available and usable versus what is accessible to the average human with medium internet skills. Downloading Metamask, obtaining ETH, these take time, resources (read: money, internet access, etc.), and skills. They may be barriers to the general population to be engaged, cutting them off from this decentralized phenomenon, preventing their engagement in DeFi, better financial opportunities, and eventually even career options.
+
+In conclusion, I'm excited about the future of corporations because of the promise of distributed governance, ownership, and general decentalization that is spearheaded, technologically, by crypto (specifically Ethereum). Traditional challenges of flat organizations do not escape crypto tech startups aiming to distribute governance and ownership and reach consensus. There are solutions in the works. It is possible that, in the future, a corporation may very well be just a mesh network of interested parties with values aligned seeking to do good and do well, pursuing the triple bottom-line!
